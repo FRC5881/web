@@ -10,4 +10,4 @@ Our 2024 source code is publicly available on [GitHub](https://github.com/FRC588
 
 ## CAD Files
 
-We use Fusion360 for CAD and our files are available for download as a [16M zip file](https://www.frc5881.com/files/2024CAD.zip).
+We use Fusion360 for CAD and our files are available for download as a [16M zip file](/files/2024CAD.zip).
