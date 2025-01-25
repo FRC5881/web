@@ -16,7 +16,7 @@ Learn more at <https://www.firstinspires.org/robotics/frc>
 
 ## Tech Valley High School
 
-Tech Valley High School (TVHS) is a four-year regional public high school serving 150 students from 32 districs across 7 counties in New York State's Capital Region. The school is focused on STEM education built on the principles of project-based learning and collaboration. Students engage in hands-on projects based in authentic applications of New York state learning standards.
+Tech Valley High School (TVHS) is a four-year regional public high school serving 150 students from 32 districts across 7 counties in New York State's Capital Region. The school is focused on STEM education built on the principles of project-based learning and collaboration. Students engage in hands-on projects based in authentic applications of New York state learning standards.
 
 The mission of Tech Valley High is to provide a unique, innovative, and student-centered educational opportunity, engage students in current and emerging technologies, and support the growth and economy of the region.
 
