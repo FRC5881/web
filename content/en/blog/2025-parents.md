@@ -8,4 +8,4 @@ author: alextopher
 
 At the start of every robotics season, the Tech Valley High School Dragons invite parents of team members to our school for a Parents Build Day. Parents build field elements for the team and the community practice field. The pratice field is used by The Dragons and other local teams to test and perfect their robots. We are grateful for the support of our parents and our practice field collaborators!
 
-{{< video src="/vid/parents25.mp4" >}}
+{{< video src="https://tvhs.us-east-1.linodeobjects.com/vid/parents25.mp4" >}}
